@@ -8,6 +8,7 @@ This project was bootstrapped with [Frontity](https://frontity.org/).
 - [Create your custom theme](#create-your-custom-theme)
 - [Create a production-ready build](#create-a-production-ready-build)
 - [Deploy](#deploy)
+- [Demo](#demo)
 
 ### Launch a development server
 
@@ -78,3 +79,6 @@ If you're looking for news and updates about Frontity, [Twitter](https://twitter
 ### Contributing
 
 Frontity welcomes contributions in all forms. There are many different ways to support the project. Check out the **[How to contribute](https://docs.frontity.org/contributing/how-to-contribute)** page for ideas on contributing and helping make Frontity better.
+
+## Demo
+https://github.com/WKasiban/hello-frontity.git
